@@ -5,3 +5,4 @@ This repository contains the data and code used in the paper "Geospatial Monitor
 # Run the geocompuational analysis in the cloud
 
 - [Google Colab](https://colab.research.google.com/github/quarcs-lab/project2021o-notebook/blob/main/notebookColab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/quarcs-lab/project2021o-notebook/blob/main/notebookColab.ipynb)
