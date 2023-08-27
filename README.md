@@ -7,3 +7,4 @@ This repository contains the data and code used in the paper "Geospatial Monitor
 ![](https://github.com/quarcs-lab/project2021o-notebook/blob/main/figs/cover.png?raw=true)
 
 
+[![DOI](https://zenodo.org/badge/683583423.svg)](https://zenodo.org/badge/latestdoi/683583423)
