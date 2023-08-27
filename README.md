@@ -4,7 +4,7 @@ Suggested citation: Mendez. C (2023) A geocomputational notebook to monitor regi
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/quarcs-lab/project2021o-notebook/blob/main/notebookColab.ipynb)
 
-This repository contains the data and code used in the paper "Geospatial Monitoring of Sustainable Development: Evidence from the Bolivian Municipalities" by [Carlos Mendez](https://carlos-mendez.org), [Erick Gonzales](https://erickgonzalesrocha.wordpress.com/about/), and [Lykke Andersen](https://www.inesad.edu.bo/en/lykke-e-andersen/). The working paper is available [here](https://www.overleaf.com/read/wmgqqdvrhhby).
+This repository also contains the data and code used in the paper "Geospatial Monitoring of Sustainable Development: Evidence from the Bolivian Municipalities" by [Carlos Mendez](https://carlos-mendez.org), [Erick Gonzales](https://erickgonzalesrocha.wordpress.com/about/), and [Lykke Andersen](https://www.inesad.edu.bo/en/lykke-e-andersen/). The working paper is available [here](https://www.overleaf.com/read/wmgqqdvrhhby).
 
 ![](https://github.com/quarcs-lab/project2021o-notebook/blob/main/figs/cover.png?raw=true)
 
