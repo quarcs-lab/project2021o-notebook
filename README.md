@@ -1,6 +1,6 @@
 # A geocomputational notebook to monitor regional development in Bolivia
 
-Suggested citation: Mendez. C (2023) A geocomputational notebook to monitor regional development in Bolivia). Zenodo. https://doi.org/10.5281/zenodo.8286852
+Suggested citation: Mendez. C (2023) A geocomputational notebook to monitor regional development in Bolivia. Zenodo. https://doi.org/10.5281/zenodo.8286852 [![DOI](https://zenodo.org/badge/683583423.svg)](https://zenodo.org/badge/latestdoi/683583423)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/quarcs-lab/project2021o-notebook/blob/main/notebookColab.ipynb)
 
@@ -9,4 +9,4 @@ This repository contains the data and code used in the paper "Geospatial Monitor
 ![](https://github.com/quarcs-lab/project2021o-notebook/blob/main/figs/cover.png?raw=true)
 
 
-[![DOI](https://zenodo.org/badge/683583423.svg)](https://zenodo.org/badge/latestdoi/683583423)
+
